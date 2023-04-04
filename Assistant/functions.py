@@ -1,4 +1,4 @@
-import libraryImports
+import Assistant.libraryImports as libraryImports
 import config
 
 engine = libraryImports.pyttsx3.init(config.TTS_ENGINE)

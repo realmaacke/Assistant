@@ -1,5 +1,5 @@
 import webbrowser
-import functions
+import Assistant.functions as functions
 
 def searchFor(query, startIndex):
 

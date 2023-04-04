@@ -1,5 +1,5 @@
 import os
-import functions
+import Assistant.functions as functions
 import wolframalpha
 
 import operations.os.Close as close
